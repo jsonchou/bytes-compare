@@ -35,7 +35,7 @@ import bytesCompare, { parse, format, compare } from 'bytes-compare'
 [view](https://github.com/visionmedia/bytes.js#bytesformatnumber-value-options-stringnull)
 
 ### parse
-[view]([view](https://github.com/visionmedia/bytes.js#bytesformatnumber-value-options-stringnull))
+[view](https://github.com/visionmedia/bytes.js#bytesformatnumber-value-options-stringnull)
 
 ### compare
 ```
