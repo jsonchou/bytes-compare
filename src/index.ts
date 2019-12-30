@@ -11,9 +11,7 @@ import bytes from 'bytes';
 
 const { format, parse } = bytes;
 
-type Nothing = {
-
-}
+type Nothing = {}
 
 /**
  * bytes compare
@@ -37,7 +35,7 @@ type Nothing = {
  * @param pattern {String} pattern
  * @returns {Boolean} compare result
  */
-const compare = (num: number, pattern :string): boolean => {
+const compare = (num: number, pattern: string): boolean => {
   if (!pattern) {
     return false;
   }
