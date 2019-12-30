@@ -1,9 +1,9 @@
-<a name="parse"></a>
+<a name="compare"></a>
 
-## parse ⇒ <code>Boolean</code>
+## compare(num, pattern) ⇒ <code>Boolean</code>
 <p>bytes compare</p>
 
-**Kind**: global variable  
+**Kind**: global function  
 **Returns**: <code>Boolean</code> - <p>compare result</p>  
 
 | Param | Type | Description |

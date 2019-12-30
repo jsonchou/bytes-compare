@@ -11,6 +11,10 @@ import bytes from 'bytes';
 
 const { format, parse } = bytes;
 
+type Nothing = {
+
+}
+
 /**
  * bytes compare
  *
